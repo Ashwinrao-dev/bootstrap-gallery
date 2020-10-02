@@ -1,2 +1,2 @@
 # bootstrap-gallery
-website link: https://ashwinrao.netlify.app/
+A responsive image gallery built using Bootstrap.
